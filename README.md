@@ -1,1 +1,1 @@
-# Patrt_time_Job
+# Part_time_Job
